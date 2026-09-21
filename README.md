@@ -5,22 +5,21 @@
 To develop an Android application for the addition of two numbers by accepting two input values from the user and displaying their summation result in a text box.
 
 # ALGORITHM
-```
-Start the application.
-Create two input fields to get the first number and second number from the user.
-Create an ADD button to perform the addition.
-Read the two numbers entered by the user.
-Convert the input values into numeric data.
-Add the two numbers using the formula:
-Sum = Number 1 + Number 2
-Display the calculated sum in the Result text box.
-Display the result using a Toast message.
-Stop the application.
-```
+* Start the application.
+* Create two input fields to get the first number and second number from the user.
+* Create an ADD button to perform the addition.
+* Read the two numbers entered by the user.
+* Convert the input values into numeric data.
+* Add the two numbers using the formula:
+* Sum = Number 1 + Number 2
+* Display the calculated sum in the Result text box.
+* Display the result using a Toast message.
+* Stop the application.
+
 # Developed By:
 ```
-Name: Subbiah S
-Reg No:212223220111
+Name: SHANMUGAKARTHIK G
+Reg No: 212223220105
 ```
 # activity_main.xml
 ```
